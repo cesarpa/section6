@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to CesarpaBank accounts service related to API v1.0"
+  contactDetails:
+    name: "CesarPa"
+    email: "cesarpa.ok@gmail.com"
+  onCallSupport:
+    - (57) 111-111-1111
+    - (57) 222-222-2222

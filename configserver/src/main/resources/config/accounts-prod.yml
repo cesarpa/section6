@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to CesarpaBank accounts service related PROD API v1.0"
+  contactDetails:
+    name: "CesarPa PROD Lead"
+    email: "cesarpa.ok@gmail.com"
+  onCallSupport:
+    - (88) 888-888-8888
+    - (88) 888-888-8881

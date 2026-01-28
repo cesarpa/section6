@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to CesarpaBank accounts service related QA API v1.0"
+  contactDetails:
+    name: "CesarPa QA Lead"
+    email: "cesarpa.ok@gmail.com"
+  onCallSupport:
+    - (66) 666-666-6666
+    - (66) 777-777-7777
